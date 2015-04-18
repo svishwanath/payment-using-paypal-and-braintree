@@ -1,0 +1,47 @@
+{
+  "name": "Paypal",
+  "version": "0.1.0",
+  "description": "Paypal",
+  "main": "hello-world-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  {
+	  "name": "paypal-rest-sdk",
+	  "version": "0.1.0",
+	  "description": "paypal-rest-sdk",
+	  "main": "./node_modules/paypal-rest-sdk/lib/paypal-rest-sdk.js",
+	  "scripts": {
+	    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+	  },  
+	  {
+		  "name": "braintree",
+		  "version": "0.1.0",
+		  "description": "paypal-rest-sdk",
+		  "main": "./node_modules/braintree/lib/braintree.js",
+		  "scripts": {
+		    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+		  },
+	  {
+		  "name": "jquery",
+		  "version": "0.1.0",
+		  "description": "jquery",
+		  "main": "./node_modules/jquery/dist/jquery.js",
+		  "scripts": {
+		    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+		  },
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "paypal",
+    "rest",
+    "api",
+    "sdk",
+    "nodeclipse"
+  ],
+  
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
